@@ -1,3 +1,1 @@
-# calculator
-
-HTML/CSS/JS
+#Simple Calculator Design with HTML and CSS
